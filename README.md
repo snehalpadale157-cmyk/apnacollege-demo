@@ -1,7 +1,7 @@
 # apnacollege-demo
 This is my first repository.
 <br>
-Author-Sneha Padale
+Author-Sneha (Apna college)
 </br>
 <br>
 Hello Sneha!
